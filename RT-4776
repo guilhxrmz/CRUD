@@ -1,0 +1,86 @@
+# Test name #
+Regression-CA-STG2: Text
+# 1 #
+- Test description
+  1. Login on site
+  2. On site add a product in a cart
+  3. Check the text related on ticket
+- Screenshots 
+
+- Context information 
+
+site: https://stg2.shop.samsung.com/ca_fr/multistore/caepp/secaeppnew/
+
+- Input data 
+
+SM - G950WZKAXAC
+
+- Output data 
+
+No text  **Any questions, call 1-855-254-4747**
+
+# 2 #
+- Test description
+    1. Login on site
+    2. On site add a product in a cart
+    3. Check the text related on ticket
+- Screenshots
+![img_1.png](img_1.png)
+
+- Context information
+
+  site: https://stg2.shop.samsung.com/ca_fr/multistore/caepp/secaeppnew/
+
+- Input data
+
+  SM - R920NZKAXAC
+
+- Output data
+
+  No text  **Any questions, call 1-855-254-4747**
+
+# 3 #
+- Test description
+    1. Login on site
+    2. On site add a product in a cart
+    3. Check the text related on ticket
+- Screenshots
+![img_2.png](img_2.png)
+
+  - Context information
+  
+  site: 
+
+  https://stg2.shop.samsung.com/ca_fr/multistore/caepp/secaeppnew/
+
+- Input data:
+
+  EP - TA20JBECGCA
+
+- Output data:
+
+  No text  **Any questions, call 1-855-254-4747**
+
+# 4 #
+- Test description
+    1. Login on site
+    2. Cofirm your verify code
+    3. On site add a product in a cart
+    4. Check the text related on ticket
+- Screenshots
+
+- Context information
+
+  site: https://stg2.shop.samsung.com/ca_fr/multistore/caepp/acncaepp/
+
+  Verify code: 12345678
+
+- Input data
+
+  null
+
+- Output data
+
+  null
+
+
